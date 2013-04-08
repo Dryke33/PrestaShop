@@ -29,3 +29,5 @@ Tools::displayFileAsDeprecated();
 Controller::getController('PageNotFoundController')->run();
 
 // Test commentaire
+
+// 2e commentaire
